@@ -3,7 +3,7 @@
 - 🌱 I graduated at Carnegie Mellon University with a Masters of Science in Electrical and Computer Engineering, with a focus on Applied Machine Learning.
       I’m currently doing my 2nd Masters of Science in Business Analytics at Emory University - Goizueta Business School.
 - 💞️ I’m activelly exploring opportunities in Machine Learning Applications with some preferences to business applications.
--  Text me if you want access to my machine learning, deep learning, and Computer Vision, and Data Sciences projects private git repos 
+-  Text me if you want access to my private machine learning, deep learning, and Computer Vision, and Data Sciences projects git repos 
 - 📫 How to reach me? 
 * Tel: +1 (470)-883-1262 (whatsaap/ mobile)
 * LinkedIn: linkedin.com/in/janshimy
