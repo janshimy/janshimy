@@ -5,7 +5,6 @@
 - 💞️ I’m activelly exploring opportunities in Machine Learning Applications with some preferences to business applications.
 -  Text me if you want access to my private machine learning, deep learning, and Computer Vision, and Data Sciences projects git repos 
 - 📫 How to reach me? 
-* Tel: +1 (470)-883-1262 (whatsaap/ mobile)
 * LinkedIn: linkedin.com/in/janshimy
 * Email: janshimy@gmail.com / jnshimyu@alumni.cmu.edu / jnshimy@emory.edu
 
