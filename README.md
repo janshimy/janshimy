@@ -6,7 +6,7 @@
 -  Text me if you want access to my private machine learning, deep learning, and Computer Vision, and Data Sciences projects git repos 
 - 📫 How to reach me? 
 * LinkedIn: linkedin.com/in/janshimy
-* Email: janshimy@gmail.com / jnshimyu@alumni.cmu.edu / jnshimy@emory.edu
+* Email: janshimy@gmail.com / jnshimyu@alumni.cmu.edu / janshimy@iu.edu
 
 <!---
 janshimy/janshimy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
