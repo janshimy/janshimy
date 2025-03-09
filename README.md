@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janvier
-- 👀 I’m interested in Applied Machine Learning and Big Data Sciences.
-- 🌱 I graduated at Carnegie Mellon University with a Masters of Science in Electrical and Computer Engineering, with a focus on Applied Machine Learning,
+- 👀 I’m working in Applied Machine Learning and Big Data Sciences Applications.
+- 🌱 I graduated from Carnegie Mellon University with a Master's of Science in Electrical and Computer Engineering, with a focus on Applied Machine Learning,
       and I hold a professional Master of Science in Business Analytics at Emory University - Goizueta Business School.
 - 🌱 I previously worked at IU School of Medicine as a Senior Data Engineer with a focus on cloud data pipelines
 - 🌱 I currently work for Coca-Cola Systems IT service company -Coke One North America (CONA Services), as a Senior Data Scientist
